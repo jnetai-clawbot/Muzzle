@@ -4,14 +4,14 @@
     <string name="made_by">Made by jnetai.com</string>
     <string name="check_update">Check for Update</string>
     <string name="share_app">Share App</string>
-    <string name="share_message">Check out Muzzle - an immersive sonar navigation game! https://github.com/jnetai-clawbot/Muzzle/releases/latest</string>
+    <string name="share_message">Check out Muzzle - control a dog\'s thoughts! https://github.com/jnetai-clawbot/Muzzle/releases/latest</string>
     <string name="checking_update">Checking for updates…</string>
     <string name="up_to_date">You\'re up to date!</string>
     <string name="update_available">New version %1$s available!</string>
     <string name="error_check">Could not check for updates</string>
     <string name="how_to_play">How to Play</string>
-    <string name="how_to_desc">Tap to send sonar pings that reveal the cave around you. Long-press to aim and release a directional blast that stuns enemies. Navigate through the alien cavern and reach the surface — but beware: sound attracts echo-sensitive creatures!</string>
-    <string name="score_label">Depth: %1$d m</string>
+    <string name="how_to_desc">Drag thought bubbles into the correct sequence to control your dog\'s behavior! Each scenario has a right response — arrange BARK, SIT, STAY, GROWL, and more in the proper order. Unlock new dog breeds as you progress!</string>
+    <string name="score_label">Score: %1$d</string>
     <string name="game_over">Game Over</string>
     <string name="restart">Tap to Restart</string>
 </resources>
